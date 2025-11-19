@@ -1,2 +1,3 @@
-# VestingVault-Pro
-This is a smart contract for token vesting with a linear schedule. Add an oracle-based automatic claim feature for project milestones, enabling vesting unlocks based on external data such as the number of active users, thereby reducing manual intervention.
+# CryptoPattern-Detector
+Crypto Pattern Detector predicts the top 100 Binance coins based on highest trading volume, integrated through a Telegram channel with over 350 patterns.
+
